@@ -95,17 +95,17 @@ export class FavoritesView extends Favorites {
 
     tr.innerHTML = `
       <td class="user">
-        <img src="https://github.com/maykbrito.png" alt="Imagem de maykbrito">
-        <a href="https://github.com/maykbrito" target="_blank">
-          <p>Mayk Brito</p>
-          <span>maykbrito</span>
+        <img src="" alt="">
+        <a href="" target="_blank">
+          <p></p>
+          <span></span>
         </a>
       </td>
       <td class="repositories">
-        76
+        
       </td>
       <td class="followers">
-        9589
+        
       </td>
       <td>
         <button class="remove">&times;</button>
